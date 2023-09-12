@@ -1,0 +1,94 @@
+---
+id: pl3-45
+name: Solrock
+supertype: Pokémon
+subtypes:
+- Basic
+level: '41'
+hp: '80'
+types:
+- Psychic
+abilities:
+- name: Sunshine Fate
+  text: Once during your turn (before your attack), if you have Lunatone in play,
+    you may look at the top 3 cards of your deck and put them back on top of your
+    deck in any order. This power can't be used if Solrock is affected by a Special
+    Condition.
+  type: Poké-Power
+attacks:
+- name: Luna Turn
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30+
+  text: If Lunatone is in your discard pile, this attack does 30 damage plus 30 more
+    damage. Then, search your discard pile for Lunatone, show it to your opponent,
+    and shuffle it into your deck.
+weaknesses:
+- type: Grass
+  value: "+20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl3
+  name: Supreme Victors
+  series: Platinum
+  printedTotal: 147
+  total: 153
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SV
+  releaseDate: 2009/08/19
+  updatedAt: 2018/03/07 22:40:00
+  images:
+    symbol: https://images.pokemontcg.io/pl3/symbol.png
+    logo: https://images.pokemontcg.io/pl3/logo.png
+number: '45'
+artist: Naoyo Kimura
+rarity: Rare
+flavorText: A new Pokémon species, rumored to be from the sun. It gives off light
+  while spinning.
+nationalPokedexNumbers:
+- 338
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl3/45.png
+  large: https://images.pokemontcg.io/pl3/45_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl3-45
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.39
+      mid: 0.75
+      high: 1.75
+      market: 0.79
+      directLow: 0.46
+    reverseHolofoil:
+      low: 0.56
+      mid: 0.87
+      high: 2.49
+      market: 0.99
+      directLow: 0.5
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl3-45
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.49
+    lowPrice: 0.25
+    trendPrice: 0.64
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.55
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 1.03
+    lowPriceExPlus: 0.25
+    avg1: 0.49
+    avg7: 0.67
+    avg30: 0.64
+    reverseHoloAvg1: 0.6
+    reverseHoloAvg7: 1.23
+    reverseHoloAvg30: 1.0

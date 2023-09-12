@@ -1,0 +1,82 @@
+---
+id: pl3-148
+name: Articuno
+supertype: Pokémon
+subtypes:
+- Basic
+level: '34'
+hp: '70'
+types:
+- Water
+attacks:
+- name: Diamond Dust
+  cost:
+  - Water
+  - Water
+  - Water
+  convertedEnergyCost: 3
+  damage: '20'
+  text: Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack
+    does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness
+    and Resistance for Benched Pokémon.)
+resistances:
+- type: Fighting
+  value: "-30"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl3
+  name: Supreme Victors
+  series: Platinum
+  printedTotal: 147
+  total: 153
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SV
+  releaseDate: 2009/08/19
+  updatedAt: 2018/03/07 22:40:00
+  images:
+    symbol: https://images.pokemontcg.io/pl3/symbol.png
+    logo: https://images.pokemontcg.io/pl3/logo.png
+number: '148'
+artist: Toshinao Aoki
+rarity: Rare Secret
+flavorText: This legendary Pokémon is said to freeze the water in the air during winter,
+  causing snow.
+nationalPokedexNumbers:
+- 144
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl3/148.png
+  large: https://images.pokemontcg.io/pl3/148_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl3-148
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 48.0
+      mid: 77.99
+      high: 1000.0
+      market: 96.1
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl3-148
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 29.88
+    lowPrice: 9.99
+    trendPrice: 37.36
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 48.24
+    lowPriceExPlus: 24.99
+    avg1: 20.0
+    avg7: 37.13
+    avg30: 32.19
+    reverseHoloAvg1: 60.0
+    reverseHoloAvg7: 28.42
+    reverseHoloAvg30: 22.64

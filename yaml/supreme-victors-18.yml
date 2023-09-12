@@ -1,0 +1,99 @@
+---
+id: pl3-18
+name: Camerupt
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '49'
+hp: '120'
+types:
+- Fire
+evolvesFrom: Numel
+attacks:
+- name: Moving Fire
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: You may move a Fire Energy card attached to 1 of your Benched Pokémon to Camerupt.
+- name: Volcanic Crash
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '100'
+  text: Flip 3 coins. For each tails, discard the top card of your deck. Ignore this
+    effect if your opponent has any Water Pokémon in play.
+weaknesses:
+- type: Water
+  value: "+30"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: pl3
+  name: Supreme Victors
+  series: Platinum
+  printedTotal: 147
+  total: 153
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SV
+  releaseDate: 2009/08/19
+  updatedAt: 2018/03/07 22:40:00
+  images:
+    symbol: https://images.pokemontcg.io/pl3/symbol.png
+    logo: https://images.pokemontcg.io/pl3/logo.png
+number: '18'
+artist: Yukiko Baba
+rarity: Rare
+flavorText: It has volcanoes on its back. If magma builds up in its body, it shudders,
+  then erupts violently.
+nationalPokedexNumbers:
+- 323
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl3/18.png
+  large: https://images.pokemontcg.io/pl3/18_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl3-18
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.17
+      mid: 0.58
+      high: 1.49
+      market: 0.75
+      directLow: 0.25
+    reverseHolofoil:
+      low: 0.4
+      mid: 0.99
+      high: 3.39
+      market: 0.9
+      directLow: 0.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl3-18
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.35
+    lowPrice: 0.1
+    trendPrice: 0.94
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 1.42
+    lowPriceExPlus: 0.1
+    avg1: 0.1
+    avg7: 1.05
+    avg30: 0.76
+    reverseHoloAvg1: 0.1
+    reverseHoloAvg7: 0.9
+    reverseHoloAvg30: 0.9

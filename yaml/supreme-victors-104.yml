@@ -1,0 +1,91 @@
+---
+id: pl3-104
+name: Feebas
+supertype: Pokémon
+subtypes:
+- Basic
+level: '5'
+hp: '30'
+types:
+- Water
+evolvesTo:
+- Milotic
+attacks:
+- name: Surprise Attack
+  cost: []
+  convertedEnergyCost: 0
+  damage: '20'
+  text: Flip a coin. If tails, this attack does nothing.
+- name: Count and Draw
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: ''
+  text: Draw a card for each of your opponent's Pokémon that isn't an Evolved Pokémon.
+weaknesses:
+- type: Lightning
+  value: "+10"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl3
+  name: Supreme Victors
+  series: Platinum
+  printedTotal: 147
+  total: 153
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SV
+  releaseDate: 2009/08/19
+  updatedAt: 2018/03/07 22:40:00
+  images:
+    symbol: https://images.pokemontcg.io/pl3/symbol.png
+    logo: https://images.pokemontcg.io/pl3/logo.png
+number: '104'
+artist: Mitsuhiro Arita
+rarity: Common
+flavorText: It is a shabby and ugly Pokémon. However, it is very hardy and can survive
+  on little water.
+nationalPokedexNumbers:
+- 349
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl3/104.png
+  large: https://images.pokemontcg.io/pl3/104_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl3-104
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.18
+      mid: 0.38
+      high: 3.97
+      market: 0.35
+      directLow: 0.2
+    reverseHolofoil:
+      low: 1.98
+      mid: 3.56
+      high: 5.0
+      market: 4.99
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl3-104
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.26
+    lowPrice: 0.02
+    trendPrice: 0.22
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.19
+    reverseHoloTrend: 0.85
+    lowPriceExPlus: 0.08
+    avg1: 0.25
+    avg7: 0.23
+    avg30: 0.22
+    reverseHoloAvg1: 0.75
+    reverseHoloAvg7: 0.97
+    reverseHoloAvg30: 0.65

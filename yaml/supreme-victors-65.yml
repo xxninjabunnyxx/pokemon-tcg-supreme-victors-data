@@ -1,0 +1,94 @@
+---
+id: pl3-65
+name: Magmar
+supertype: Pokémon
+subtypes:
+- Basic
+level: '28'
+hp: '70'
+types:
+- Fire
+evolvesTo:
+- Magmortar
+attacks:
+- name: Smokescreen
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: If the Defending Pokémon tries to attack during your opponent's next turn,
+    your opponent flips a coin. If tails, that attack does nothing.
+- name: Fireworks
+  cost:
+  - Fire
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: Flip a coin. If tails, discard a Fire Energy attached to Magmar.
+weaknesses:
+- type: Water
+  value: "+20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl3
+  name: Supreme Victors
+  series: Platinum
+  printedTotal: 147
+  total: 153
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SV
+  releaseDate: 2009/08/19
+  updatedAt: 2018/03/07 22:40:00
+  images:
+    symbol: https://images.pokemontcg.io/pl3/symbol.png
+    logo: https://images.pokemontcg.io/pl3/logo.png
+number: '65'
+artist: Midori Harada
+rarity: Uncommon
+flavorText: When it breathes deeply, heat waves form around its body, making it hard
+  to see clearly.
+nationalPokedexNumbers:
+- 126
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl3/65.png
+  large: https://images.pokemontcg.io/pl3/65_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl3-65
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.14
+      mid: 0.37
+      high: 1.57
+      market: 0.53
+      directLow: 0.14
+    reverseHolofoil:
+      low: 0.61
+      mid: 0.82
+      high: 4.8
+      market: 0.9
+      directLow: 0.51
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl3-65
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.33
+    lowPrice: 0.05
+    trendPrice: 0.17
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.3
+    reverseHoloLow: 0.16
+    reverseHoloTrend: 0.68
+    lowPriceExPlus: 0.15
+    avg1: 0.29
+    avg7: 0.21
+    avg30: 0.28
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.43
+    reverseHoloAvg30: 0.55

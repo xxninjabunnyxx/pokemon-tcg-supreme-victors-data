@@ -1,0 +1,99 @@
+---
+id: pl3-7
+name: Metagross
+supertype: Pokémon
+subtypes:
+- Stage 2
+level: '68'
+hp: '130'
+types:
+- Metal
+evolvesFrom: Metang
+abilities:
+- name: Gravitation
+  text: Each Pokémon in play (both yours and your opponent's) gets -20 HP. No more
+    than 20 HP can be reduced by all Gravitation Poké-Bodies.
+  type: Poké-Body
+attacks:
+- name: Geo Impact
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: If you have a Stadium card in play, this attack does 20 damage to each of
+    your opponent's Benched Pokémon that is the same type as the Defending Pokémon.
+    (Don't apply Weakness and Resistance for Benched Pokémon.)
+weaknesses:
+- type: Fire
+  value: "+30"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: pl3
+  name: Supreme Victors
+  series: Platinum
+  printedTotal: 147
+  total: 153
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SV
+  releaseDate: 2009/08/19
+  updatedAt: 2018/03/07 22:40:00
+  images:
+    symbol: https://images.pokemontcg.io/pl3/symbol.png
+    logo: https://images.pokemontcg.io/pl3/logo.png
+number: '7'
+artist: Kagemaru Himeno
+rarity: Rare Holo
+flavorText: Metang combined to form it. With four brains, it has the intelligence
+  of a supercomputer.
+nationalPokedexNumbers:
+- 376
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl3/7.png
+  large: https://images.pokemontcg.io/pl3/7_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl3-7
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 2.19
+      mid: 3.62
+      high: 6.5
+      market: 5.11
+      directLow: 
+    reverseHolofoil:
+      low: 0.95
+      mid: 1.98
+      high: 8.39
+      market: 2.02
+      directLow: 1.47
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl3-7
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 1.13
+    lowPrice: 0.5
+    trendPrice: 1.58
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.0
+    reverseHoloLow: 0.65
+    reverseHoloTrend: 3.26
+    lowPriceExPlus: 0.95
+    avg1: 1.2
+    avg7: 1.56
+    avg30: 2.3
+    reverseHoloAvg1: 3.0
+    reverseHoloAvg7: 2.58
+    reverseHoloAvg30: 2.45
